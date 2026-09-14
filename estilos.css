@@ -350,6 +350,36 @@ strong {
   margin: 2.75rem 0 0;
 }
 
+.preguntas {
+  margin-top: 3rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--linea);
+}
+
+.preguntas h3 {
+  margin-top: 1.75rem;
+  font-size: 1.1rem;
+}
+
+.fuentes {
+  margin-top: 2.5rem;
+  font-size: 0.9rem;
+  color: var(--tinta-suave);
+}
+
+.fuentes h2 {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--azul);
+  margin: 0 0 0.75rem;
+}
+
+.fuentes a {
+  overflow-wrap: break-word;
+}
+
 .recuadro {
   background: var(--niebla);
   border-left: 3px solid var(--azul);
